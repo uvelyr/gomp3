@@ -6,7 +6,6 @@ TUI mp3 player written in Go and based on github.com/gdamore/tcell/v2
 
 ## Screenshots
 
-![TUI Screenshot](https://i.postimg.cc/NfRm9F7r/gomp3screenshot.png)
 ![demo](demo.gif)
 
 
